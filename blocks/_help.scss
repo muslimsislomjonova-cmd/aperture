@@ -1,0 +1,39 @@
+
+.cta-section {
+  padding: 80px 20px;
+  text-align: center;
+  color: white;
+  margin: auto;
+
+  h2 {
+    font-size: 32px;
+    margin: 0;
+    line-height: 42px;
+  }
+
+  p {
+    font-size: 18px;
+    color: #999999;
+    margin: 0;
+  }
+
+  .cta-button {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    padding:0 ;
+    background-color: white;
+    color: black;
+    border: none;
+    border-radius: 20px;
+    font-size: 14px;
+  
+
+    .circle {
+      width: 16px;
+      height: 16px;
+      background-color: black;
+      border-radius: 50%;
+    }
+  }
+}
